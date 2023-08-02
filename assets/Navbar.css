@@ -1,0 +1,204 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  *:not(i) {
+    font-family: 'Yantramanav', sans-serif;
+    /* letter-spacing: 1px; */
+    /* text-transform: uppercase; */
+  }
+  header {
+    position: fixed;
+    width: 100%;
+    background-color: #ffffff;
+    box-shadow: 0 5px 10px rgba(218, 218, 218, 0.74);
+    padding: 1rem 2rem;
+    z-index: 999;
+  }
+  nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+  }
+  nav a {
+    text-decoration: none;
+  }
+  nav a#logo {
+    color: #000000;
+    font-weight: 700;
+  }
+  nav ul a {
+    color: #000000;
+    font-weight: 500;
+    padding: 50px 0;
+  }
+  nav ul a:hover {
+    border-bottom: 2px solid #ffffff;
+  }
+  section#home {
+    height: 100vh;
+    display: grid;
+    place-items: center;
+  }
+  h1 {
+    font-size: 4rem;
+  }
+  #ham-menu {
+    display: none;
+  }
+  nav ul.active {
+    left: 0;
+    z-index: 99;
+  }
+  @media only screen and (max-width: 991px) {
+    html {
+      font-size: 56.25%;
+    }
+    header {
+      padding: 2.2rem 5rem;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+    html {
+      font-size: 50%;
+    }
+    #ham-menu {
+      display: block;
+      color: #000000;
+    }
+    nav a#logo,
+    #ham-menu {
+      font-size: 3.2rem;
+    }
+    nav ul {
+      background-color: black;
+      position: fixed;
+      left: -100vw;
+      top: 73.6px;
+      width: 100vw;
+      height: calc(100vh - 73.6px);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-around;
+      transition: 1s;
+      gap: 0;
+      z-index: 99;
+    }
+  }
+  @media only screen and (max-width: 575px) {
+
+    header {
+      padding: 2rem 3rem;
+      z-index: 999;
+    }
+    nav ul {
+      top: 88px;
+      height: calc(96vh - 310.18px);
+      z-index: 99;
+    }
+    nav ul a{
+      color: #fff;
+      font-size: 20px;
+      padding: 0;
+    }
+    nav ul li:hover>ul{
+      display: contents !important;
+    }
+    .cursor,.cursor2{
+      display: none;
+    }
+  }
+
+
+  /*----------------------------------------------
+  ##dropdown
+  -----------------------------------------------*/
+
+  nav ul li:hover>ul{
+    display: block;
+}
+.dropdown1{
+    position: relative;
+}
+
+.course-dropdown{
+    position: absolute;
+    top: 70px;
+    display: none;
+    background: #fff;
+    box-shadow: 0 10px 12px rgba(0,0,0,0.5);
+    width: 200px;
+    padding: 0;
+    z-index: 99;
+}
+
+.course-dropdown li{
+    padding: 10px 10px 10px;
+    border-bottom: 1px solid gray;
+}
+
+.course-dropdown li:hover{
+    background: #2b4eff;
+}
+
+.course-dropdown li:hover>a{
+    color: white;
+    border: none;
+}
+
+.dropdown_a{
+    padding: 0;
+}
+
+/*------------------------------------------------
+Cursor Animation
+------------------------------------------------*/
+
+.cursor{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000000;
+    border-radius: 50%;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    transition: .1s;
+    z-index: 1000;
+}
+
+.cursor2{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 8px;
+    height: 8px;
+    border: 1px solid #000000;
+    border-radius: 50%;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    transition: .08s;
+    z-index: 1000;
+}
+
+
+
+
+
+/* ----------------------------------------------
+Responsive css
+------------------------------------------------*/
+
+/* @media only screen and (max-width:335px){
+  nav ul.active{
+    top: 88px;
+  }
+} */

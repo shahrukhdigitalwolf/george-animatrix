@@ -377,9 +377,9 @@
       <!-- page title area start -->
       <section class="page__title-area pt-120 pb-5">
          <div class="page__title-shape">
-            <img class="page-title-shape-5 d-none d-sm-block" src="assets/img/page-title/page-title-shape-1.png" alt="">
-            <img class="page-title-shape-6" src="assets/img/page-title/page-title-shape-6.png" alt="">
-            <img class="page-title-shape-7" src="assets/img/page-title/page-title-shape-4.png" alt="">
+            <img class="page-title-shape-5 d-none d-sm-block" src="assets/img/page-title/page-title-shape-1.png" alt="vfx training institute in kolkata">
+            <img class="page-title-shape-6" src="assets/img/page-title/page-title-shape-6.png" alt="vfx animation course in kolkata">
+            <img class="page-title-shape-7" src="assets/img/page-title/page-title-shape-4.png" alt="top vfx course in kolkata">
          </div>
          <div class="container">
             <div class="row">
@@ -468,7 +468,7 @@
 
                                  <div class="course__sidebar p-relative" id="mobile-form">
                                     <div class="course__shape">
-                                       <img class="course-dot" src="assets/img/course/course-dot.png" alt="">
+                                       <img class="course-dot" src="assets/img/course/course-dot.png" alt="best vfx institute in kolkata">
                                     </div>
                                     <div class="course__sidebar-widget-2 white-bg mb-20">
                                        <h3 style="color: #c9002f;">Admission Open</h3>
@@ -646,7 +646,7 @@
                                        <li>
                                           <div class="course__comment-box ">
                                              <div class="course__comment-thumb float-start">
-                                                <img src="./assets/img/review/soumik.png" alt="">
+                                                <img src="./assets/img/review/soumik.png" alt="best vfx course in kolkata">
                                              </div>
                                              <div class="course__comment-content">
                                                 <div class="course__comment-wrapper ml-70 fix">
@@ -673,7 +673,7 @@
                                        <li>
                                           <div class="course__comment-box ">
                                              <div class="course__comment-thumb float-start">
-                                                <img src="./assets/img/review/pritha.png" alt="">
+                                                <img src="./assets/img/review/pritha.png" alt="vfx professional course">
                                              </div>
                                              <div class="course__comment-content">
                                                 <div class="course__comment-wrapper ml-70 fix">
@@ -700,7 +700,7 @@
                                        <li>
                                           <div class="course__comment-box ">
                                              <div class="course__comment-thumb float-start">
-                                                <img src="./assets/img/review/sabir.png" alt="">
+                                                <img src="./assets/img/review/sabir.png" alt="vfx animation courses in kolkata">
                                              </div>
                                              <div class="course__comment-content">
                                                 <div class="course__comment-wrapper ml-70 fix">
@@ -737,7 +737,7 @@
                            <div class="col-xxl-12">
                               <div class="section__title-wrapper mb-40">
                                  <h2 class="section__title">Related <span class="yellow-bg yellow-bg-big">Course<img
-                                          src="assets/img/shape/yellow-bg.png" alt=""></span></h2>
+                                          src="assets/img/shape/yellow-bg.png" alt="vfx animation course"></span></h2>
                                  <p>You don't have to struggle alone, you've got our assistance and help.</p>
                               </div>
                            </div>
@@ -749,7 +749,7 @@
                                     <div class="course__item course__item-3 swiper-slide white-bg mb-30 fix">
                                        <div class="course__thumb w-img p-relative fix">
                                           <a href="animation-course-in-kolkata.php">
-                                             <img src="./assets/img/animation-1.jpg" alt="">
+                                             <img src="./assets/img/animation-1.jpg" alt="visual effects course">
                                           </a>
                                           <div class="course__tag">
                                              <a href="animation-course-in-kolkata.php">Animation Course</a>
@@ -769,7 +769,7 @@
                                     <div class="course__item course__item-3 swiper-slide white-bg mb-30 fix">
                                        <div class="course__thumb w-img p-relative fix">
                                           <a href="web-graphics-design-course-in-kolkata.php">
-                                             <img src="./assets/img/eg-3.jpg" alt="">
+                                             <img src="./assets/img/eg-3.jpg" alt="vfx courses after 12th">
                                           </a>
                                           <div class="course__tag">
                                              <a href="web-graphics-design-course-in-kolkata.php"
@@ -790,7 +790,7 @@
                                     <div class="course__item course__item-3 swiper-slide white-bg mb-30 fix">
                                        <div class="course__thumb w-img p-relative fix">
                                           <a href="photography-course-in-kolkata.php">
-                                             <img src="./assets/img/photograpics-4.jpg" alt="">
+                                             <img src="./assets/img/photograpics-4.jpg" alt="vfx classes">
                                           </a>
                                           <div class="course__tag">
                                              <a href="photography-course-in-kolkata.php" class="green">Photography</a>
@@ -819,7 +819,7 @@
                <div class="col-xxl-4 col-xl-4 col-lg-4" id="desktop-form">
                   <div class="course__sidebar p-relative">
                      <div class="course__shape">
-                        <img class="course-dot" src="assets/img/course/course-dot.png" alt="">
+                        <img class="course-dot" src="assets/img/course/course-dot.png" alt="best vfx course">
                      </div>
                      <div class="course__sidebar-widget-2 white-bg mb-20">
                         <h3 style="color: #b91e1e;">Admission Open</h3>
@@ -923,7 +923,7 @@
                         <div class="footer__widget-head mb-22">
                            <div class="footer__logo">
                               <a href="index.php">
-                                 <img src="assets/img/logo.png" alt="">
+                                 <img src="assets/img/logo.png" alt="vfx institute near me">
                               </a>
                            </div>
                         </div>

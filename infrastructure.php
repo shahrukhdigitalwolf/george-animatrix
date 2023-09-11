@@ -531,6 +531,26 @@ following to every single item in a.item */
                     <img class="img-fluid" alt="" src="./assets/img/infrastructure/f8.jpeg" />
                     <i class="fa fa-camera"></i>
                 </a>
+                <a class="col-lg-4 item red" href="./assets/img/infrastructure/f9.jpg" data-lg-size="1024-800">
+                    <img class="img-fluid" alt="" src="./assets/img/infrastructure/f9.jpg" />
+                    <i class="fa fa-camera"></i>
+                </a>
+                <a class="col-lg-4 item red" href="./assets/img/infrastructure/f10.jpg" data-lg-size="1024-800">
+                    <img class="img-fluid" alt="" src="./assets/img/infrastructure/f10.jpg" />
+                    <i class="fa fa-camera"></i>
+                </a>
+                <a class="col-lg-4 item red" href="./assets/img/infrastructure/f11.jpg" data-lg-size="1024-800">
+                    <img class="img-fluid" alt="" src="./assets/img/infrastructure/f11.jpg" />
+                    <i class="fa fa-camera"></i>
+                </a>
+                <a class="col-lg-4 item red" href="./assets/img/infrastructure/f12.jpg" data-lg-size="1024-800">
+                    <img class="img-fluid" alt="" src="./assets/img/infrastructure/f12.jpg" />
+                    <i class="fa fa-camera"></i>
+                </a>
+                <a class="col-lg-4 item red" href="./assets/img/infrastructure/f13.jpg" data-lg-size="1024-800">
+                    <img class="img-fluid" alt="" src="./assets/img/infrastructure/f13.jpg" />
+                    <i class="fa fa-camera"></i>
+                </a>
             </div>
         </div>
     </section>
